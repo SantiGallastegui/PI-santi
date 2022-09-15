@@ -2,7 +2,8 @@ CREATE DATABASE proyecto;
 
 USE proyecto; 
 
-SELECT * FROM drivers;
+SELECT * FROM circuits;
+SELECT * FROM circuits;
 
 
 SELECT * FROM results_filt
